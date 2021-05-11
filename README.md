@@ -2,7 +2,7 @@
 
 # I'm Amutha!
 
-### Python Developer 👨🏻‍💻
+### Python Developer | Full Stack Web Developer 👨🏻‍💻
 
 [Email Me!](mailto:amuthavp2000@gmail.com)
  
