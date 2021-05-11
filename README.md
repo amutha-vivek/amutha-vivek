@@ -59,5 +59,5 @@
 <img align="center" alt="Amutha's top languages" src="https://gh-readme-stats-jr2zafif6.vercel.app/api/top-langs/?username=amutha-vivek&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
 
-[LinkedIn]: https://www.linkedin.com/in/abishek-b/
-[twitter]: https://twitter.com/abishek151
+[LinkedIn]: https://www.linkedin.com/in/amutha-v/
+[twitter]: https://twitter.com/amutha_vp
